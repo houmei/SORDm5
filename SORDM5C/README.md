@@ -10,8 +10,10 @@ PCB
 
 ## 説明
 
-![SORDm5C V01L02 SORD m5用ROM/RAMカートリッジ](http://blog.livedoor.jp/hardyboy/archives/10058478.html "まごころせいじつ堂")  
-![SORD m5用ROM/RAMカートリッジ基板](https://keisanki.booth.pm/items/3939000 "booth")
+[SORDm5C V01L02 SORD m5用ROM/RAMカートリッジ](http://blog.livedoor.jp/hardyboy/archives/10058478.html "まごころせいじつ堂")  
+[SORD m5用ROM/RAMカートリッジ基板](https://keisanki.booth.pm/items/3939000 "booth")  
+・C4 470pFは不要です(元々のカートリッジでは~MRD信号を遅らせるために付いていたがU3で確保できている)  
+・カードエッジ端面はやすりなどで角を面取りしてください。  
 
 ## 履歴
 V01L01(非公開) 初版 ROMデコードの配線ミスあり  
